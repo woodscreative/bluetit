@@ -35,7 +35,6 @@
   
   // stop cycling titles...
   bluetit.stop = function(){
-    console.log('stopped');
     clearInterval(bluetit.intId);
   };
   
