@@ -16,7 +16,7 @@
     titles: ['Be Kind','Be Brave'],
     // {int} cycle index, @see cycle()
     i: 0,
-    // {object} the title element
+    // {object} the title element selector
     el: document.querySelector('title')
   };
   
